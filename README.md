@@ -1,5 +1,5 @@
 # 💫 About Me:
-Python Developer , AI & Machine Learning Enthusiast who is also analytical and results-driven M.Tech Computer Science student with strong expertise in data structures, problem-solving, and algorithmic optimization , translating complex code into clean and efficient code.
+Python Developer , AI & Machine Learning Engineer who is also analytical and results-driven M.Tech Computer Science student with strong expertise in data structures, problem-solving, and algorithmic optimization , translating complex code into clean and efficient code.
 
 
 ## 🌐 Socials:
